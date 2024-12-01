@@ -40,8 +40,13 @@ A simple and efficient music player application built using Kotlin with seamless
 ---
 
 ## Screenshots  
+![Screen1](https://github.com/user-attachments/assets/34a8a091-8025-470f-a840-c0a615d0861b)
+![Screen2](https://github.com/user-attachments/assets/538f012e-b8c6-4347-a8bc-b92b407f2ca9)
+
+
 
 ![Playing control in notification](https://github.com/user-attachments/assets/8af5d8cf-ec18-43e3-99bf-570e853e6497)
+
 
 
 ---
